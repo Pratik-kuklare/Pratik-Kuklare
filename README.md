@@ -1,5 +1,5 @@
 # 💫 About Me:
-3rd-Year B.Tech CS student @ D Y Patil International University, pune.<br>Currently learning JavaScript, Java.<br>Aiming to become a Full-Stack Developer.<br>Tools : GitHub, Git, VS Code, Notion<br>
+🎓3rd-Year B.Tech CS student @ D Y Patil International University, pune.<br>💻 Currently learning JavaScript, Java.<br> 🎯Aiming to become a Full-Stack Developer.<br>⚙️Tools : GitHub, Git, VS Code, Notion<br>
 
 
 ## 🌐 Socials:
